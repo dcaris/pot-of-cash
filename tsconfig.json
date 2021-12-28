@@ -7,7 +7,11 @@
     "baseUrl": ".",
     "paths": {
       "*": ["node_modules/*"]
-    }
+    },
+    "importHelpers": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "target": "ES5"
   },
   "include": [
     "src/**/*"
