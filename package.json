@@ -1,0 +1,23 @@
+{
+  "name": "pot-of-cash",
+  "version": "1.0.0",
+  "description": "Envelope budgeting app based on all buckets residing in 1 account",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dcaris/pot-of-cash.git"
+  },
+  "author": "Daniel Caris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dcaris/pot-of-cash/issues"
+  },
+  "homepage": "https://github.com/dcaris/pot-of-cash#readme",
+  "devDependencies": {
+    "electron": "^16.0.1"
+  }
+}
